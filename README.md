@@ -1,4 +1,4 @@
-# Analysis data derived electric car-sharing service company to determine understand electric car usage over time.
+# Analysis of data derived from an electric car-sharing service company to determine understand electric car usage over time.
 
 ## Project Description
 
